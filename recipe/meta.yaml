@@ -1,5 +1,5 @@
 {% set name = "roman-numerals" %}
-{% set version = "3.1.0" %}
+{% set version = "4.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/roman_numerals-{{ version }}.tar.gz
-  sha256: 384e36fc1e8d4bd361bdb3672841faae7a345b3f708aae9895d074c878332551
+  sha256: 231287018a8788bf8c0718482a08c15b90458523ea1d840a18a791a86d4583b3
 
 build:
   noarch: python
