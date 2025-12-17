@@ -143,5 +143,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@AA-Turner](https://github.com/AA-Turner/)
 * [@ocefpaf](https://github.com/ocefpaf/)
 
